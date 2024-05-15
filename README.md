@@ -1,5 +1,9 @@
 <html>
   <head>
+    <style>
+body {
+  background-color: #ADD8E6;
+}
   </head>
   <body>
     <h1>Track Tips</h1>
